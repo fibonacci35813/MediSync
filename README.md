@@ -1,0 +1,2 @@
+# MediSync
+Revolutionise healthcare ecosystem
